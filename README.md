@@ -1,13 +1,15 @@
 # HelloWorkshop
 
-Aplikacja konsolowa .NET stworzenia podczas laboratorium.
+Default C# app that prints "Hello, World!"
 
-## Uruchomienie
-\`\`\`bash
+
+## How to run the app?
+```angular2html
 dotnet run
-\`\`\`
+```
 
+## How does the app work?
 
-## Kontakt
-Autor BG
+The app prints "Hello, World!"
+
 
