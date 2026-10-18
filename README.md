@@ -5,6 +5,7 @@ Default C# app that prints "Hello, World!"
 
 ## How to run the app?
 ```angular2html
+cd HelloWorkshop
 dotnet run
 ```
 
