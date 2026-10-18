@@ -7,7 +7,7 @@ Aplikacja konsolowa .NET stworzenia podczas laboratorium.
 dotnet run
 \`\`\`
 
+
 ## Kontakt
-## Kontakt
-Zespół: Warsztat Programisty
+Autor BG
 
